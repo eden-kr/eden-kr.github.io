@@ -5,12 +5,12 @@ description: Jekyll Theme Minimal Resume
 url: "https://eden-kr.github.io/"
 
 # User settings
-username: eden
+username: Eden Kim
 user_description: Hi, my name is eden.
 user_title: Software Engineer
 email: yjk7768@gmail.com
 # twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+github_username:  eden-kr
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
