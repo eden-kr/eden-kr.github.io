@@ -1,6 +1,6 @@
 # Site settings
 title: 이든 개발일지
-description: Jekyll Theme Minimal Resume
+description: 이든 개발일지
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eden-kr.github.io/"
 
