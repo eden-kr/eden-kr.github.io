@@ -10,7 +10,7 @@ user_description: Hi, my name is eden.
 user_title: Software Engineer
 email: yjk7768@gmail.com
 # twitter_username: lorem_ipsum
-github_username:  eden-kr
+github_username: "https://github.com/eden-kr"
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
