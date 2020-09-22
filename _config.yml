@@ -9,8 +9,11 @@ username: Eden Kim
 user_description: Hi, my name is eden.
 user_title: Software Engineer
 email: yjk7768@gmail.com
-# twitter_username: lorem_ipsum
+
+twitter_username: null
 github_username: eden-kr
-# gplus_username:  lorem_ipsum
+gplus_username:  null
+facebook_username: kty5859
+instagram_username: y._.eah
 
 exclude: ['package.json', 'src' , 'node_modules']
